@@ -1,3 +1,5 @@
+Hệ Cơ Sở Dữ Liệu Đa Phương Tiện PTIT - Thầy Nguyễn Đình Hóa
+
 Xây dựng hệ CSDL lưu trữ và tìm kiếm tiếng nhạc cụ thuộc bộ dây.
 
 1.Hãy xây dựng/sưu tầm một bộ dữ liệu gồm ít nhất 200 files âm thanh về tiếng nhạc cụ thuộc bộ dây, các file có độ dài phù hợp để trích xuất các đặc trưng âm thanh, đơn tấu (SV tùy chọn định dạng file âm thanh).
